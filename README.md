@@ -136,7 +136,7 @@ https://linkedin.com/in/tanvirarabi
 
 Email:
 
-qwqrprpfxz@privaterelay.app
+tanvirarabi8@gmail.com
 
 
 ---
