@@ -11,7 +11,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,100:4CA1AF&height=180&section=header&text=Tanvir%20Arabi&fontSize=42&fontColor=ffffff&fontAlignY=32&desc=Software%20Engineer%20-%20AI%20and%20ML%20Backend&descAlign=50&descSize=16&animation=fadeIn" width="100%" alt="Header banner"/>
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=2C3E50&style=flat-square" alt="Profile Views"/>
+
 <a href="https://linkedin.com/in/tanvirarabi"><img src="https://img.shields.io/badge/-LinkedIn-2C3E50?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:qwqrprpfxz@privaterelay.app"><img src="https://img.shields.io/badge/-Email-2C3E50?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
