@@ -22,7 +22,7 @@
 
 ## 📋 Professional Summary
 
-Software Engineer specializing in AI/ML backend development, with experience designing scalable REST API architectures and deploying machine learning models into production. Currently building AI-integrated IoT systems at Datasoft Manufacturing & Assembly Inc. Ltd., combining backend engineering with applied machine learning.
+Software Engineer specializing in AI/ML backend developmen, with experience designing scalable REST API architectures and deploying machine learning models into production. Currently building AI-integrated IoT systems at Datasoft Manufacturing & Assembly Inc. Ltd., combining backend engineering with applied machine learning.
 
 | | |
 |---|---|
