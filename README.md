@@ -1,90 +1,85 @@
 <!--
-  📌 Setup notes (this comment is invisible once rendered on GitHub):
-  1. Replace every YOUR_GITHUB_USERNAME below with your actual GitHub username (appears 4 times).
-  2. This file needs to live in a public repo named exactly the same as your
-     GitHub username (e.g. github.com/tanvirarabi/tanvirarabi) with this as
-     the root README.md — GitHub then shows it on your profile page.
+  📌 Setup Instructions:
+  1. Replace YOUR_GITHUB_USERNAME with your actual GitHub username (appears 4 times).
+  2. Host this as README.md in a public repository named exactly the same as your GitHub username.
+     Example: github.com/tanvirarabi/tanvirarabi
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,100:4CA1AF&height=180&section=header&text=Tanvir%20Arabi&fontSize=42&fontColor=ffffff&fontAlignY=32&desc=Software%20Engineer%20-%20AI%20and%20ML%20Backend&descAlign=50&descSize=16&animation=fadeIn" width="100%" alt="Header banner"/>
+# Tanvir Arabi
 
-<p>
+**AI/ML Backend Engineer** • Building intelligent systems at scale
 
-<a href="https://linkedin.com/in/tanvirarabi"><img src="https://img.shields.io/badge/-LinkedIn-2C3E50?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:qwqrprpfxz@privaterelay.app"><img src="https://img.shields.io/badge/-Email-2C3E50?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanvirarabi)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanvirarabi8@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
 
 </div>
 
 ---
 
-## 📋 Professional Summary
+## 👨‍💻 About
 
-Software Engineer specializing in AI/ML backend developmen, with experience designing scalable REST API architectures and deploying machine learning models into production. Currently building AI-integrated IoT systems at Datasoft Manufacturing & Assembly Inc. Ltd., combining backend engineering with applied machine learning.
+Software engineer specializing in **AI/ML backend development** with proven expertise designing scalable REST API architectures and deploying machine learning models to production. Currently architecting AI-integrated IoT systems at **Datasoft Manufacturing & Assembly Inc. Ltd.**, combining robust backend engineering with cutting-edge machine learning.
 
-| | |
-|---|---|
-| **Current Role** | Software Engineer, AI & ML Backend — Datasoft Manufacturing & Assembly Inc. Ltd. |
-| **Education** | BSc in Computer Science — American International University-Bangladesh |
-| **Focus Areas** | Machine Learning · Deep Learning · Scalable Backend Systems |
-| **Contact** | tanvirarabi8@gmail.com |
+**Key Information**
+- 🎓 **Education:** BSc Computer Science, American International University-Bangladesh (2022–2026)
+- 💼 **Current Role:** Software Engineer, AI & ML Backend
+- 🔍 **Expertise:** ML deployment · Scalable systems · REST APIs · IoT integration
+- 📧 **Contact:** tanvirarabi8@gmail.com
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Skill Set
 
-<div align="center">
-
-**Backend Development**
-
+### Backend Development
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-**AI / ML**
+### AI & Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-0066CC?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-CC0000?style=for-the-badge)
 
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-blue?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-red?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white)
-
-</div>
+### Database & Infrastructure
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 💼 Experience
+## 💼 Professional Experience
 
-**Software Engineer, AI & ML Backend**
-Datasoft Manufacturing & Assembly Inc. Ltd. &nbsp;|&nbsp; June 2026 – Present
+### Software Engineer, AI & ML Backend
+**Datasoft Manufacturing & Assembly Inc. Ltd.** | June 2026 – Present
 
-- Developing AI/ML backend solutions
-- Designing scalable API architectures
-- Deploying machine learning models
-- Integrating AI systems with IoT devices
+- Architecting AI/ML backend solutions for enterprise applications
+- Designing and implementing scalable REST API architectures using Django and Django REST Framework
+- Deploying machine learning models to production environments with TensorFlow
+- Integrating artificial intelligence systems with IoT devices for smart automation
+- Optimizing data pipelines and backend infrastructure for high-performance applications
 
 ---
 
 ## 🎓 Education
 
 **Bachelor of Science, Computer Science**
-American International University-Bangladesh &nbsp;|&nbsp; 2022 – 2026
+American International University-Bangladesh | 2022 – 2026
+
+Relevant coursework: Machine Learning, Deep Learning, Data Structures, Database Systems, Software Engineering
 
 ---
 
 ## 📌 Featured Projects
 
 | Project | Description |
-|---|---|
-| **AI Based IoT Intelligent System** | Machine learning powered automation system integrating AI models with IoT devices. |
-| **REST API Platform** | Backend architecture developed using Django REST Framework. |
-| **Deep Learning Applications** | Building and deploying AI models for real-world applications. |
+|---------|-------------|
+| **AI-Powered IoT Intelligent System** | Machine learning-driven automation platform integrating AI models with IoT devices for real-time decision-making and control |
+| **Django REST API Platform** | Production-ready backend architecture built with Django REST Framework, featuring authentication, role-based access control, and scalable data models |
+| **Deep Learning Applications** | End-to-end ML pipeline from model development and training to deployment, handling production inference and model serving |
 
 ---
 
@@ -92,7 +87,8 @@ American International University-Bangladesh &nbsp;|&nbsp; 2022 – 2026
 
 <div align="center">
 
-![Tanvir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![Tanvir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
@@ -101,21 +97,24 @@ American International University-Bangladesh &nbsp;|&nbsp; 2022 – 2026
 
 ---
 
-## 📬 Contact
+## 🤝 Let's Connect
 
-<div align="center">
+I'm passionate about building scalable AI/ML systems and collaborating on innovative projects. Feel free to reach out to discuss:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanvirarabi)
-[![Email](https://img.shields.io/badge/Email-2C3E50?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qwqrprpfxz@privaterelay.app)
+- 🤖 AI/ML backend architecture and deployment strategies
+- 💻 Scalable REST API design patterns
+- 🔗 IoT and embedded systems integration
+- 📊 Machine learning model optimization
 
-</div>
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanvirarabi)
+[![Send_Email](https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanvirarabi8@gmail.com)
 
 ---
 
 <div align="center">
 
-Thank you for visiting my profile. I'm always open to discussing AI/ML engineering, backend architecture, or potential collaborations.
+**Thank you for visiting my profile.** I'm always open to discussing AI/ML engineering, backend architecture, and exciting collaboration opportunities.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,100:4CA1AF&height=100&section=footer" width="100%" alt="Footer banner"/>
+*Last updated: October 2026*
 
 </div>
