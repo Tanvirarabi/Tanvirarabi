@@ -81,6 +81,7 @@ American International University-Bangladesh | 2022 – 2026
 ## 🤝 Let's Talk About
 
 - Building scalable backend systems
+- develop the ERP module
 - ML model deployment and optimization
 - REST API design
 - IoT and embedded systems
