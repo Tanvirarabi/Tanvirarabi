@@ -93,6 +93,6 @@ American International University-Bangladesh | 2022 – 2026
 
 <div align="center">
 
-Always interested in discussing AI/ML engineering, backend architecture, and cool projects. Feel free to reach out!
+Always interested in discussing AI/ML engineering, ERP, SaaS, backend architecture, and cool projects. Feel free to reach out!
 
 </div>
