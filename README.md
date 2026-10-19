@@ -7,7 +7,7 @@
 
 <div align="center">
 
-# Tanvir Arabi
+# Md Tanvir Arabi
 
 **AI/ML Backend Engineer** • Building intelligent systems
 
