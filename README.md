@@ -43,7 +43,7 @@ Software engineer working on **AI/ML backend development** and scalable REST API
 ## 💼 Experience
 
 ### Software Engineer-I, AI & ML Backend
-**Datasoft Manufacturing & Assembly Inc. Ltd.** | June 2026 – Present
+**Datasoft Manufacturing & Assembly Inc. Ltd.** | February 2026 – Present
 
 - Building AI/ML backend solutions for IoT and manufacturing systems
 - Designing REST APIs with Django REST Framework and ASP.NET Core
