@@ -9,7 +9,7 @@
 
 # Md Tanvir Arabi
 
-**Software Engineer 
+**Software Engineer - Backend & AI/ML
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanvirarabi)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanvirarabi8@gmail.com)
