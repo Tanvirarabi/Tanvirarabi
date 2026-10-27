@@ -62,6 +62,7 @@ American International University-Bangladesh | 2022 – 2026
 
 ## 📌 Projects I've Built
 
+- **Django + React.js ** - Develop the 5 ERP Modules(PM,HR,Procurement,Inventory,Accounting)
 - **ASP.NET Core Web Apps** — Full-stack applications with SQL Server, CRUD operations, secure authentication
 - **Django REST APIs** — Scalable backend platforms with role-based access control and authentication
 - **IoT + AI Systems** — ML-powered automation integrating AI models with IoT devices
