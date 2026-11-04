@@ -15,6 +15,7 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanvirarabi8@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tanvirarabi)
 
+
 </div>
 
 ---
@@ -32,7 +33,7 @@ Software engineer working on **AI/ML backend development** and scalable REST API
 
 ## 🛠️ Tech Stack
 
-**Backend:** Python · Django · Django REST Framework · Flask · C# · ASP.NET Core
+**Backend:** Python · Django · Django REST Framework · Flask · C++ .
 
 **AI/ML:** TensorFlow · Machine Learning · Deep Learning
 
