@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Md%20Tanvir%20Arabi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Backend%20%26%20AI%2FML&descAlignY=58&descSize=18" width="100%" alt="Header banner" />
+<img src="assets/banner.svg" width="100%" alt="Md Tanvir Arabi - Software Engineer, Backend & AI/ML" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+AI%2FML+backends+for+IoT+%26+Manufacturing;Designing+scalable+REST+APIs;Deploying+ML+models+to+production;Developing+ERP+modules+with+Django+%2B+React" alt="Typing animation" />
@@ -98,7 +98,7 @@ Software engineer focused on **AI/ML backend development** and scalable REST API
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Tanvirarabi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvirarabi&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanvirarabi&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com/?user=Tanvirarabi&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanvirarabi&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution activity graph" />
 
@@ -120,7 +120,7 @@ Software engineer focused on **AI/ML backend development** and scalable REST API
 
 <div align="center">
 
-<!-- Requires the workflow in .github/workflows/snake.yml -->
+<!-- Requires the workflow in .github/workflows/snake.yml (see setup notes) -->
 <img src="https://raw.githubusercontent.com/Tanvirarabi/Tanvirarabi/output/github-snake-dark.svg" alt="Contribution snake animation" />
 
 </div>
@@ -145,6 +145,6 @@ Software engineer focused on **AI/ML backend development** and scalable REST API
 
 *Always interested in discussing AI/ML engineering, ERP, SaaS, backend architecture, and cool projects. Feel free to reach out!*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" alt="Footer" />
+<img src="assets/footer.svg" width="100%" alt="Footer" />
 
 </div>
